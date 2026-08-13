@@ -16,4 +16,4 @@ An interactive Power BI dashboard designed to analyze attacking output, possessi
 * **Attacking Tiers:** Utilized conditional formatting to segment clubs into elite, average, and struggling attacking tiers based on a 90-minute median.
 
 ## 📂 Dataset
-The raw data was sourced from FBref, detailing team-level metrics for the 2023/2024 season.
+The raw data was sourced from FBref, detailing team-level metrics for the 2025/2026 season.
